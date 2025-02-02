@@ -1,0 +1,17 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f8f9fa;
+}
+.container {
+max-width: 600px;
+margin: auto;
+}
+.list-group-item {
+cursor: pointer;
+}
+.list-group-item:hover {
+background-color: #e9ecef;
+}
+.btn {
+margin: 5px;
+}
